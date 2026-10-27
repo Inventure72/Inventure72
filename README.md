@@ -17,7 +17,7 @@ Computer Science & AI student at IE University. This account is where I keep my 
 
 ## Earlier academic work
 
-[IB Extended Essay](https://github.com/Inventure71/Extended_Essay) — experiments exploring how neural-network size affects performance across different tasks.
+[IB Extended Essay](https://github.com/Inventure72/Extended_Essay) — experiments exploring how neural-network size affects performance across different tasks.
 
 ## More of my work
 
